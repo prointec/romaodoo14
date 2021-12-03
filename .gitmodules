@@ -12,3 +12,8 @@
 	path = OCA/field-service
 	url = git@github.com:OCA/field-service.git
 	branch = 14.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
